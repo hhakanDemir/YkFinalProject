@@ -13,10 +13,10 @@ namespace DataAccess.Abstract
     // class : referans tip
     // IEntity : IEntity olabilir veya IEntity implemente eden bir nesne olabilir
     // new() : new'lenebilir olmalı
-    public interface IEntityRepository<T> where T : class, IEntity
+    public interface IEntityRepository<T> where T : class, IEntity, new()// burada yapılan kısıtlamalara generic constrain deniyor.
     {
-        List<T> GetAll(Expression<Func<T, bool>> filter = null);
-        T Get(Expression<Func<T, bool>> filter = null);
+        List<T> GetAll(Expression<Func<T, bool>>? filter = null);
+        T? Get(Expression<Func<T, bool>> filter);
 
         void Add(T entity);
 
