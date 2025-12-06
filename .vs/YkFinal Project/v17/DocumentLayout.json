@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\YkFinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF223162-A4FA-49C1-8ACC-4F543C2A5A9C}|DataAccess\\DataAccess.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF223162-A4FA-49C1-8ACC-4F543C2A5A9C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB70EBE6-8322-4AC9-B1BE-D5DE18BF63EB}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB70EBE6-8322-4AC9-B1BE-D5DE18BF63EB}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\DataAccess\\Abstract\\IProductDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IProductDal.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\DataAccess\\Abstract\\IProductDal.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\IProductDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T22:14:18.319Z",
+              "WhenOpened": "2025-12-06T22:31:34.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:11:38.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:27:52.617Z",
               "EditorCaption": ""
             }
           ]
