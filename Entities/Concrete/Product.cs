@@ -1,9 +1,9 @@
-﻿using Entities.Abstract;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Core.Entities;
 
 namespace Entities.Concrete
 {
@@ -11,7 +11,7 @@ namespace Entities.Concrete
     {
         public int ProductId { get; set; }
         public int CategoryId { get; set; }
-        public string? ProductName { get; set; }
+        public string ProductName { get; set; } = string.Empty;
         public short UnitsInStock { get; set; }
         public decimal UnitPrice { get; set; }
     }

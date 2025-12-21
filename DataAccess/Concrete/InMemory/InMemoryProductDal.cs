@@ -1,5 +1,6 @@
 ﻿using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,24 +33,24 @@ namespace DataAccess.Concrete.InMemory
 
         public void Delete(Product product)
         {
-            Product productToDelete = _products.SingleOrDefault(p => p.ProductId == product.ProductId);
+            var productToDelete = _products.SingleOrDefault(p => p.ProductId == product.ProductId);
+
+            if (productToDelete is null)
+                return;
 
             _products.Remove(productToDelete);
         }
 
-        public Product Get(Expression<Func<Product, bool>> filter = null)
+        public Product Get(Expression<Func<Product, bool>>? filter = null)
         {
             throw new NotImplementedException();
         }
 
-        public List<Product> GetAll()
+       
+
+        public List<Product> GetAll(Expression<Func<Product, bool>>? filter = null)
         {
             return _products;
-        }
-
-        public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
-        {
-            throw new NotImplementedException();
         }
 
         public List<Product> GetAllByCategory(int categoryId)
@@ -57,10 +58,17 @@ namespace DataAccess.Concrete.InMemory
             return _products.Where(p => p.CategoryId == categoryId).ToList();
         }
 
+        public List<ProductDetailDto> GetProductDetails()
+        {
+            throw new NotImplementedException();
+        }
+
         public void Update(Product product)
         {
-            Product productToUpdate = _products.SingleOrDefault(p => p.ProductId == product.ProductId);
+            var productToUpdate = _products.SingleOrDefault(p => p.ProductId == product.ProductId);
 
+            if (productToUpdate is null)
+                return;
             productToUpdate.ProductName = product.ProductName;
             productToUpdate.CategoryId = product.CategoryId;
             productToUpdate.UnitPrice = product.UnitPrice;

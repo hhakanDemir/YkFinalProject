@@ -16,3 +16,5 @@ C:\Users\user\Source\Repos\YkFinalProject\Business\obj\Debug\net8.0\Business.dll
 C:\Users\user\Source\Repos\YkFinalProject\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\user\Source\Repos\YkFinalProject\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\user\Source\Repos\YkFinalProject\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\user\source\repos\YkFinalProject\Business\bin\Debug\net8.0\Core.dll
+C:\Users\user\source\repos\YkFinalProject\Business\bin\Debug\net8.0\Core.pdb
