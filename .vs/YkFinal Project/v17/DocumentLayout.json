@@ -3,52 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\YkFinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|solutionrelative:business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB70EBE6-8322-4AC9-B1BE-D5DE18BF63EB}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB70EBE6-8322-4AC9-B1BE-D5DE18BF63EB}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\results\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\results\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\results\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\results\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\results\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2E0E60E-B1E5-4D9B-86E7-A2220B425D0B}|WebAPI\\WebAPI.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E0E60E-B1E5-4D9B-86E7-A2220B425D0B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,158 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\ConsoleUI\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\ConsoleUI\\Program.cs",
-              "RelativeToolTip": "ConsoleUI\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA1wCkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T16:39:56.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorDataResult.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\ErrorDataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\ErrorDataResult.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\ErrorDataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\ErrorDataResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T15:37:09.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SuccessDataResult.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\SuccessDataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessDataResult.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\SuccessDataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\SuccessDataResult.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T15:28:28.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataResult.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\DataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\DataResult.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\DataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\DataResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T14:47:52.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IDataResult.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\IDataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\IDataResult.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\IDataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\IDataResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T14:32:13.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Messages.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Business\\Constants\\Messages.cs",
-              "RelativeDocumentMoniker": "Business\\Constants\\Messages.cs",
-              "ToolTip": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Business\\Constants\\Messages.cs",
-              "RelativeToolTip": "Business\\Constants\\Messages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T14:09:21.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorResult.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Utilities\\Results\\ErrorResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\ErrorResult.cs",
-              "ToolTip": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Utilities\\Results\\ErrorResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\ErrorResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T13:50:21.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SuccessResult.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\SuccessResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessResult.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\SuccessResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\SuccessResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T12:29:10.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\Result.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\Result.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\Result.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T11:43:20.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IResult.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\IResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\IResult.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Results\\IResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\IResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T11:40:55.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Abstract\\IProductService.cs",
-              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Abstract\\IProductService.cs",
-              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T05:11:03.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Concrete\\ProductManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Concrete\\ProductManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA0wCIAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T11:31:36.787Z",
+              "WhenOpened": "2025-12-22T19:19:21.374Z",
               "EditorCaption": ""
             }
           ]
