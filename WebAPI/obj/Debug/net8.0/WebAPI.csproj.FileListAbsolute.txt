@@ -80,3 +80,10 @@ C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Business.pdb
 C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Core.pdb
 C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\DataAccess.pdb
 C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Entities.pdb
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Autofac.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\FluentValidation.dll

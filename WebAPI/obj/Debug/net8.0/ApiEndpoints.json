@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "WebAPI.Controllers.ProductsController",
-    "Method": "Post",
+    "Method": "Add",
     "RelativePath": "api/Products/add",
     "HttpMethod": "POST",
     "IsController": true,
@@ -27,7 +27,7 @@
   },
   {
     "ContainingType": "WebAPI.Controllers.ProductsController",
-    "Method": "Get",
+    "Method": "GetById",
     "RelativePath": "api/Products/getbyid",
     "HttpMethod": "GET",
     "IsController": true,

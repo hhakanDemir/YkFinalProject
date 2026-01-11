@@ -1,9 +1,23 @@
-﻿using Business.Abstract;
+﻿using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using Business.Abstract;
 using Business.Concrete;
+using Business.DependencyResolvers.Autofac;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFremawork;
 
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Autofac'e geç
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+
+// Container kayıtları (örnek: module ile)
+builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder =>
+{
+    containerBuilder.RegisterModule(new AutofacBusinessModule());
+});
+
 
 // Add services to the container.
 
@@ -12,9 +26,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+
 // IoC kaydi BURADA
-builder.Services.AddSingleton<IProductService, ProductManager>();
-builder.Services.AddSingleton<IProductDal, EfProductDal>();
+//builder.Services.AddSingleton<IProductService, ProductManager>();
+//builder.Services.AddSingleton<IProductDal, EfProductDal>();
 
 var app = builder.Build();
 
