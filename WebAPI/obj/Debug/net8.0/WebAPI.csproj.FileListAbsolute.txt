@@ -87,3 +87,10 @@ C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\System.Diagnos
 C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user\Source\Repos\YkFinalProject\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

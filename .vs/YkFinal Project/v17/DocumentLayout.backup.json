@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\YkFinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\aspects\\autofac\\transaction\\transactionscopeaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\transaction\\transactionscopeaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\crosscuttingconcerns\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\aspects\\autofac\\performance\\performanceaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\performance\\performanceaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\dependencyresolvers\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\dependencyresolvers\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FACADA-3881-4F33-87AA-F9A3835312C4}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\aspects\\autofac\\caching\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\caching\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E0E60E-B1E5-4D9B-86E7-A2220B425D0B}|WebAPI\\WebAPI.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2E0E60E-B1E5-4D9B-86E7-A2220B425D0B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\aspects\\autofac\\caching\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\caching\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\crosscuttingconcerns\\caching\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\caching\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\ykfinalproject\\core\\utilities\\ioc\\icoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284BE83C-EBEC-4C53-AD23-6FD312231D64}|Core\\Core.csproj|solutionrelative:core\\utilities\\ioc\\icoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,132 +66,144 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClaimExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Extensions\\ClaimExtensions.cs",
-              "RelativeDocumentMoniker": "Core\\Extensions\\ClaimExtensions.cs",
-              "ToolTip": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Extensions\\ClaimExtensions.cs",
-              "RelativeToolTip": "Core\\Extensions\\ClaimExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T20:38:51.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TokenOptions.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T19:59:19.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T19:52:52.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Entities\\Concrete\\User.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\User.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Entities\\Concrete\\User.cs",
-              "RelativeToolTip": "Core\\Entities\\Concrete\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T19:36:16.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ITokenHelper.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Title": "PerformanceAspect.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Aspects\\Autofac\\Performance\\PerformanceAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Performance\\PerformanceAspect.cs",
+              "ToolTip": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Aspects\\Autofac\\Performance\\PerformanceAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Performance\\PerformanceAspect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T19:11:28.957Z",
+              "WhenOpened": "2026-02-26T00:17:05.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AccessToken.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\JWT\\AccessToken.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\AccessToken.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\JWT\\AccessToken.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\AccessToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Title": "Core",
+              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T00:13:59.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionScopeAspect.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Aspects\\Autofac\\Transaction\\TransactionScopeAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Transaction\\TransactionScopeAspect.cs",
+              "ToolTip": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Aspects\\Autofac\\Transaction\\TransactionScopeAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Transaction\\TransactionScopeAspect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T19:09:30.793Z",
+              "WhenOpened": "2026-02-26T00:11:24.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SigningCredentialsHelper.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T22:11:23.204Z",
+              "WhenOpened": "2026-02-25T23:59:02.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SecurityKeyHelper.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Title": "CacheRemoveAspect.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "ToolTip": "C:\\Users\\user\\Source\\Repos\\YkFinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T22:05:20.191Z",
+              "WhenOpened": "2026-02-25T23:30:20.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICoreModule.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\IoC\\ICoreModule.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\IoC\\ICoreModule.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\IoC\\ICoreModule.cs",
+              "RelativeToolTip": "Core\\Utilities\\IoC\\ICoreModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T04:18:09.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CacheAspect.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:52:17.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoreModule.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\DependencyResolvers\\CoreModule.cs",
+              "RelativeDocumentMoniker": "Core\\DependencyResolvers\\CoreModule.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\DependencyResolvers\\CoreModule.cs",
+              "RelativeToolTip": "Core\\DependencyResolvers\\CoreModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:51:30.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemoryCacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAvwC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:47:59.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "HashingHelper.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Title": "ICacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T21:46:48.753Z",
+              "WhenOpened": "2026-02-10T02:41:13.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\WebAPI\\appsettings.json",
-              "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-15T21:40:30.927Z",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\YkFinalProject\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T20:16:24.985Z",
               "EditorCaption": ""
             }
           ]
